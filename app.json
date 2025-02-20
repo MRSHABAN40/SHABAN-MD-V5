@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~rP4h2ZaB#80Isycw06hSl2m_oD3WSopnFKQL4OlqSLE9L7U5iEik.",
       "required": true,
       "value": ""
     },  
@@ -42,13 +42,13 @@
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
@@ -86,14 +86,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "923261269942"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "chAndiA"
 
       }, 
 
