@@ -215,9 +215,14 @@
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "url": "heroku/nodejs"
         }
      ],
-  "stack": "heroku-24"
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  }
 }
   
