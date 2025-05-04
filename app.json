@@ -1,5 +1,5 @@
 {
-  "name": "SHABAN-MD",
+  "name": "𝔓𝔩𝔤 𝔅𝔬𝔱.",
   "description": "Javascript WhatsApp bot made by MR-SHABAN",
   "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
   "keywords": ["SHABAN-MD"],
@@ -7,25 +7,25 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": { "SHABAN-MD~8lhHFYDb#19pLOsolJCTuAJL1v4jsRhi2blw96PMr2Yq4KcRepg4"
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
     },  
     
-    "STICKER_NAME": {
+    "STICKER_NAME": { "Plg Pack."
       "description": "type your sticker pack name.",
       "required": false,
       "value": "SHABAN-MD"
     }, 
       
-    "PREFIX": {
+    "PREFIX": {"."
       "description": "paste your bot prefix note! Don't apply null prefix.",
       "required": false,
       "value": "."
     },
     
-    "MODE": {
+    "MODE": { "public"
       "description": "select your bot work type public-private-inbox-group.",
       "required": true,
       "value": "public"
@@ -33,139 +33,139 @@
     },
     
     
-    "ALWAYS_ONLINE": {
+    "ALWAYS_ONLINE": { "false"
       "description": "Make it true if want always online.",
       "required": false,
       "value": "false"  
     },    
   
-    "AUTO_VOICE": {
+    "AUTO_VOICE": { "false"
       "description": "Make it true if want automatic voice reply .",
       "required": false,
       "value": "false"
     }, 
 
-    "AUTO_REPLY": {
+    "AUTO_REPLY": { "false"
       "description": "Make it true if you want automatic reply.",
       "required": false,
       "value": "false"
     }, 
 
-    "AUTO_STICKER": {
+    "AUTO_STICKER": { "false"
       "description": "Make it true if you want automatic sticker.",
       "required": false,
       "value": "false"
     }, 
 
 
-    "AUTO_STATUS_SEEN": {
+    "AUTO_STATUS_SEEN": { "false"
       "description": "Make it true for automatic status seen.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_STATUS_REACT": {
+    "AUTO_STATUS_REACT": { "false"
       "description": "make it true for automatic status reaction or like.",
       "required": true,
       "value": "true"
     }, 
 
-    "AUTO_STATUS_REPLY": {
+    "AUTO_STATUS_REPLY": { "false"
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
       "value": "false"
     }, 
 
-    "AUTO_STATUS_MSG": {
+    "AUTO_STATUS_MSG": { "false"
       "description": "Type custom message on status reply",
       "required": true,
       "value": "*🪩SEEN YOUR STATUS SHABAN-MD🪩*"
    
      }, 
     
-    "OWNER_NAME": {
+    "OWNER_NAME": { "MR-KΣЯΛПΣ"
       "description": "Type Bot Owner Name.",
       "required": false,
       "value": "MR-SHABAN"
 }, 
 
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": { "24106435809"
       "description": "put the owner number for bot.",
       "required": true,
       "value": "923043788282"
 
     }, 
 
-    "BOT_NAME": {
+    "BOT_NAME": { "卩ㄥᎶ 乃ㄖㄒ"
       "description": "Type here the bot name.",
       "required": false,
       "value": "SHABAN-MD"
 
       }, 
 
-    "ANTI_LINK": {
+    "ANTI_LINK": { "false"
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "true"
       
     },
     
-    "ANTI_BAD": {
+    "ANTI_BAD": { "false"
       "description": "Make it true if you want bot auto delete bad words.",
       "required": true,
       "value": "false"
     }, 
 
-     "DESCRIPTION": {
+     "DESCRIPTION": { "𝖯𝗅𝗀 𝖡𝗈𝗍 𝗈𝗇 𝗁𝖾𝗋𝖾 !"
       "description": "add caption for menu and other",
       "required": false,
       "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*"
     },
 
-      "DELETE_LINKS": {
+      "DELETE_LINKS": { "true"
       "description": "remove links from group automatically without removing member",
       "required": true,
       "value": "false"
     },
     
-    "AUTO_RECORDING": {
+    "AUTO_RECORDING": { "false"
       "description": "Make it true if you want auto recoding.",
       "required": true,
       "value": "false"
     },
 
-    "AUTO_TYPING": {
+    "AUTO_TYPING": {"false"
       "description": "Make it true if you want auto typing.",
       "required": true,
       "value": "false"
     },
 
-    "AUTO_REACT": {
+    "AUTO_REACT": {"false"
       "description": "Make it true if you want react on every message.",
       "required": true,
       "value": "false"
     },
     
-    "CUSTOM_REACT": {
+    "CUSTOM_REACT": {"false"
       "description": "Make it true if you want custom reactions.",
       "required": true,
       "value": "false"
       
     }, 
     
-    "CUSTOM_REACT_EMOJIS": {
+    "CUSTOM_REACT_EMOJIS": { "🛌🏽,🧖🏽‍♂️,⚡,👨🏽‍🦼,🔯,🦦,🐉,🤴🏽,"
       "description": "put here custom react react emojis.",
       "required": false,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
     }, 
     
-    "ANTI_DEL_PATH": {
+    "ANTI_DEL_PATH": { "same"
       "description": "change it to -same- if you want to resend deleted message in same chat",
       "required": false,
       "value": "same"
     }, 
 
-    "READ_MESSAGE": {
+    "READ_MESSAGE": { "false"
       "description": "Make it true if you want bot read your all sms just now.",
       "required": true,
       "value": "false"
@@ -173,7 +173,7 @@
 
 },
 
-     "buildpacks": [
+     "buildpacks": [ "Kerane-04"
         {
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
