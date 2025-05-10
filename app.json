@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~KZBjEIAZ#EZ8wPRaOXZIzfnP3Qmr6eWky1XP3vn8yKVr4DedRxAM"
     },  
     
     "STICKER_NAME": {
@@ -73,33 +73,33 @@
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*🪩SEEN YOUR STATUS SHABAN-MD🪩*"
+      "value": "*🪩Bot has SEEN YOUR STATUS Depah_57 ig..🪩*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "Depah"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "923043788282"
+      "value": "254104916091"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "Alvins MD"
 
       }, 
 
@@ -119,7 +119,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*"
+      "value": "*© killer*"
     },
 
       "DELETE_LINKS": {
@@ -131,7 +131,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
