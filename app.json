@@ -1,5 +1,5 @@
 {
-  "name": "SHABAN-MD",
+  "name": "SHAhzad-MD",
   "description": "Javascript WhatsApp bot made by MR-SHABAN",
   "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
   "keywords": ["SHABAN-MD"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~EkZGXKSB#p3FKJf-BA2MqU64OCC5OVN2nEeO3PVWuLPZ2vt638rY",
       "required": true,
       "value": ""
     },  
@@ -78,13 +78,13 @@
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
-      "value": "*🪩SEEN YOUR STATUS SHABAN-MD🪩*"
+      "required": false,
+      "value": "💙"
    
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "shahzad",
       "required": false,
       "value": "MR-SHABAN"
 }, 
@@ -92,7 +92,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "923043788282"
+      "value": "923066660758"
 
     }, 
 
