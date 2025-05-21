@@ -1,28 +1,49 @@
-name: NodeJS with Gulp
+name: Node.js CI
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+
+push:
+
+branches:
+
+main
+
+pull request:
+
+branches:
+
+main
 
 jobs:
-  build:
-    runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [18.x, 20.x, 22.x]
+build:
 
-    steps:
-    - uses: actions/checkout@v4
+runs-on: ubuntu-latest
 
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
-      with:
-        node-version: ${{ matrix.node-version }}
+strategy:
 
-    - name: Build
-      run: |
-        npm install
-        gulp
+matris:
+
+node-version: [20.x]
+
+steps:
+
+name: Checkout repository
+
+uses: actions/checkout@v3
+
+name: Set up fiode.js
+
+uses: actions/setup-node@v3
+
+with
+
+node-version: ${matrix.node-version}}
+
+name: Install dependencies
+
+run: npe install
+
+name: Start application
+
+run: npa start
