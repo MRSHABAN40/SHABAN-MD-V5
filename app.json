@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~mIMxVTAK#3nBX3W9njBbCpzExng413w5o3h_fYKOLG4dqzgNaIp4"
     },  
     
     "STICKER_NAME": {
@@ -92,14 +92,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": true,
-      "value": "923043788282"
+      "value": "27715300991"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "BIONIC-MK"
 
       }, 
 
