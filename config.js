@@ -6,14 +6,14 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "",
-// add your Session Id
+// add your Session Id ://SHABAN-MD~ON90RIwJ#-SyZspCkj2JLsm4pLIy6MH-CCHpLcPIvXW8-GU3xkQY
 AUTO_BIO: process.env.AUTO_BIO || "false", 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-// make true if you want auto reply on status 
+// make false if you want auto reply on status 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS*",
 // set the auto reply massage on status reply
 WELCOME: process.env.WELCOME || "false",
@@ -39,7 +39,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "923043788282",
 OWNER_NAME: process.env.OWNER_NAME || "MR-SHABAN",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
-// add bot owner name    
+// add bot owner name  Rizwan Talib shar
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tasodv.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *SHABAN-MD*⚡",
