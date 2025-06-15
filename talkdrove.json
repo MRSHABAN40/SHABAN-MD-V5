@@ -1,14 +1,14 @@
 {
-    "bot-name": "SHABAN-MD",
-    "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Shaban",
-    "logo": "https://i.ibb.co/qYtzFsVp/shaban-md.jpg",
+    "bot-name": "Nazim_X",
+    "description": "Whiskey Sockets Baileys Whatsapp bot By Decent-NX",
+    "logo": "https://files.catbox.moe/fhk2br.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://pti-pair.onrender.com/",
-    "owner-verification": "talkdrovelover@gmail.com",
+    "owner-verification": "muhammadnazimrind@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with SHABAN-MD~  or get session id from here,  https://pti-pair.onrender.com/",
+        "description": "Put your SESSION_ID here. Make sure it starts with shaban_md  or get session id from here,  https://pti-pair.onrender.com/",
         "value":"",
         "required": true
         
@@ -24,7 +24,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "𝚂ʜᴀʙᴀɴ-ᴍᴅ-𝚆.𝙰 𝙱𝙾𝚃"
+      "value": "Decent_NX"
     }, 
       
     "PREFIX": {
@@ -50,7 +50,7 @@
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     
     "AUTO_BIO": {
@@ -62,13 +62,13 @@
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
 
@@ -87,27 +87,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*𝑺𝒉𝒂𝒃𝒂𝒏 𝑴𝒅 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*Decent_NX 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐒𝐡𝐚𝐛𝐚𝐧"
+      "value": "Decent_NX"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "923701335041"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "Nazim-X"
 
       }, 
 
@@ -121,13 +121,13 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© Gᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Sʜᴀʙᴀɴ*"
+      "value": "*© Decent-NXtech*"
     },
 
       "DELETE_LINKS": {
@@ -157,7 +157,7 @@
     "ADMIN_EVENTS": {
       "description": "make it true if want know who promote or demote a member .",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "WELCOME": {
@@ -182,7 +182,7 @@
     "ANTI_DELETE": {
       "description": "set true for show deleted messages.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },
 
     "READ_MESSAGE": {
