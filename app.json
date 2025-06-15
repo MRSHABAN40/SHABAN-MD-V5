@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "logo": "https://i.ibb.co/mCfPfmJL/shaban-md.jpg",
-  "keywords": ["SHABAN-MD"],
+  "name": "Nazim-X",
+  "description": "Javascript WhatsApp bot made by Decent-NX",
+  "logo": "https://files.catbox.moe/fhk2br.jpg",
+  "keywords": ["Nazim_X"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,13 +16,13 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "SHABAN-MD︎"
+      "value": "Nazim_X"
     },
     
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": true,
-      "value": "https://i.ibb.co/j9G5tmNM/shaban-md.jpg"
+      "value": "https://files.catbox.moe/fhk2br.jpg"
     }, 
       
     "PREFIX": {
@@ -54,19 +54,19 @@
     "AUTO_VOICE": {
       "description": "Make it true if want automatic voice reply .",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
 
@@ -91,39 +91,39 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW BY DECENT_NX 𓅓*"
    
      }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD V5"
+      "value": "Nazim_X"
 
      },
      
     "DELETE_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto kick member remove group link.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
     
     "ADMIN_EVENTS": {
       "description": "make it true if want know who promote or demote a member .",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
      
     "ANTI_CALL": {
@@ -136,7 +136,7 @@
     "ANTI_BAD_WORD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
     
     "AUTO_RECORDING": {
@@ -148,7 +148,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": true,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
@@ -179,7 +179,7 @@
     "ANTI_DELETE": {
       "description": "set true for show deleted messages.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },
 
     "READ_MESSAGE": {
