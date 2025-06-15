@@ -1,35 +1,15 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=SHABAN-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=8A2BE2&center=true&width=1000&height=200&lines=Decent_NX" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://i.ibb.co/b5WCv61V/shaban-md.jpg'/></a>
+<a><img src='https://files.catbox.moe/fhk2br.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/MRSHABAN40"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/nazimhihoo"><img title="Developer" src="https://img.shields.io/badge/Author-Decent_%20NX-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+SHABAN+MD+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+MR+SHABAN;🚀+SHABAN-MD+V5+Solutions;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
-</h1>
-  
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-9ACD32?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O)
-</div>
-
----------
-
- <p align="center"><img src="https://profile-counter.glitch.me/{SHABAN-MD}/count.svg" alt="MRSHABAN40 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MRSHABAN40}/count.svg" /></p>
-
-
-<p align="center">
-<a href="https://github.com/MRSHABAN/SHABAN-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=SHABAN-MD&label=VIEWS&style=square&color=blue" />
-</p>
-</p> 
-
-<p align="center">
-  <a href="https://github.com/MRSHABAN40/SHABAN-MD"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v5-cyan.svg?style=for-the-badge&logo=aqua" /></a>
-</p>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+Nazim+X+BETTER+OPTION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+developed+by+Decent+NX;🚀+Decent-NX;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
 
 ***BOT FEATURE ⤵️***
 
@@ -39,13 +19,13 @@
 
   
 <a
-href="https://github.com/MRSHABAN40/SHABAN-MD-V5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+href="https://github.com/nazimhihoo/SHABAN-MD-V5/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+⭐+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
  <p align="lift">
- <a href="https://github.com/MRSHABAN40/SHABAN-MD-V5/fork"><img title="SHABAN-MD-V5" src="https://img.shields.io/badge/FORK-SHABAN MD V5-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/nazimhihoo/SHABAN-MD-V5/fork"><img title="Nazim_X" src="https://img.shields.io/badge/FORK-Nazim_X-h?color=008000&style=for-the-badge&logo=github"></a>
  
 
   **⛓️‍💥 NEW SESSION WEB ADDED**
@@ -128,18 +108,18 @@ jobs:
 <div align="center">
   <!-- Glowing Header -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  <img src="https://files.catbox.moe/fhk2br.jpg" height="40" width="100%">
 </p>
-  <a href="https://github.com/MRSHABAN40">
-    <img src="https://github-readme-stats.vercel.app/api?username=MRSHABAN40&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  <a href="https://github.com/nazimhihoo">
+    <img src="https://github-readme-stats.vercel.app/api?username=nazimhihoo&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 <!-- Glowing Header -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+  <img src="https://files.catbox.moe/fhk2br.jpg" height="40" width="100%">
 </p>
 
-## 🤖 _SHABAN-MD STATUS_
+## 🤖 Nazim_X STATUS_
 
 ```diff
 + Project Status: Active
@@ -150,7 +130,7 @@ jobs:
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+SHABAN+MD+Quality+Edition+by+MR+SHABAN;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&lines=💎+Nazim+X+Quality+Edition+by+MR+NX;⚡+The+Future+of+WhatsApp+Bots+is+Here" alt="Footer Animation">
 </h3>
 
 
