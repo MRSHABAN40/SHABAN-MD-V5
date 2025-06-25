@@ -1,7 +1,7 @@
 {
-  "name": "SHABAN-MD",
+  "name": "MIDUL_BOT",
   "version": "5.0.0",
-  "description": "A WhatsApp Bot Created By Mr Shaban",
+  "description": "A WhatsApp Bot Created By Mr Midul",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
