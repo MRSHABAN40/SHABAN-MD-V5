@@ -16,7 +16,7 @@
     "@vitalets/google-translate-api": "^9.2.0",
     "@dark-yasiya/scrap":"1.0.1",    
     "pino": "^7.0.5",
-    "pm2": "^5.2.0",
+    "pm2": "^6.0.8",
     "util": "^0.12.4",
     "express": "5.1.0",
     "moment-timezone": "^0.5.45",
