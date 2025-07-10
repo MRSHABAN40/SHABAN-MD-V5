@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~pRoW2QoJ#8-Hk-eR94rEdnN61Wzg52Po4EzWs0SSCbCocSXGiumA"
     },  
     
     "STICKER_NAME": {
@@ -22,12 +22,12 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "MR-SHABAN"
+      "value": "KING HAFI"
 }, 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923043788282"
+      "value": "923271374309"
 
     }, 
     
@@ -46,7 +46,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -185,7 +185,7 @@
     "ANTI_DELETE": {
       "description": "set true for show deleted messages.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },
 
     "READ_MESSAGE": {
